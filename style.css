@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    background-color: Silver;
 }
 h1 {
     font-family: sans-serif;
@@ -43,6 +44,7 @@ ul {
 footer {
     border-top: 4px solid goldenrod;
     border-bottom: 4px solid goldenrod;
+    background-color: PowderBlue;
 }
 .lol {
     margin: 0px;
