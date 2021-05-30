@@ -37,7 +37,8 @@ P {
 }
 ul {
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: sans-serif;;
+}
 }
 footer {
     border-top: 4px solid goldenrod;
@@ -45,4 +46,7 @@ footer {
 }
 .lol {
     margin: 0px;
+}
+head {
+   color:Cyan;
 }
