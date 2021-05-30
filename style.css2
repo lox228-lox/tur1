@@ -37,3 +37,6 @@ footer {
     border-top: 4px solid goldenrod;
     border-bottom: 4px solid goldenrod;
 }
+head {
+color: Cyan;
+}
